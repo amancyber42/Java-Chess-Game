@@ -106,4 +106,5 @@ Ovaj projekt je open-source i može se slobodno koristiti u edukativne svrhe.
 
 > ♟️ *"Šah je problem, matematika i umjetnost u isto vrijeme."*
 
-![alt text](<Chess Game.png>)
+
+<img width="1915" height="1029" alt="Chess_Game" src="https://github.com/user-attachments/assets/e1bd1e40-e243-4bad-8342-6ea92981dd76" />
